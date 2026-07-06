@@ -1,0 +1,30 @@
+/* ============================================================
+   DUMMY placeholder for icomoon.css
+   ------------------------------------------------------------
+   The real icomoon.css uses a custom generated icon font
+   (fonts/icomoon/icomoon.woff etc.) that only exists in your
+   old project. Rather than leave these icons blank, this file
+   maps the exact class names your components use to plain
+   Unicode symbols, so everything renders with zero missing
+   files.
+
+   TO GET YOUR REAL ICONS BACK:
+   Replace this entire file with your old project's
+   css/icomoon.css, and copy old-project/fonts/icomoon/ into
+   public/fonts/icomoon/. Nothing else needs to change.
+   ============================================================ */
+
+[class^="icon-"],
+[class*=" icon-"] {
+  font-style: normal;
+  font-weight: normal;
+  display: inline-block;
+  line-height: 1;
+}
+
+.icon-map-signs:before { content: "\1F4CD"; }        /* 📍 */
+.icon-phone2:before { content: "\260E"; }              /* ☎ */
+.icon-paper-plane:before { content: "\2709"; }         /* ✉ */
+.icon-linkedin:before { content: "in"; font-weight: 700; font-size: 0.85em; }
+.icon-twitter:before { content: "\1D54F"; font-weight: 700; }
+.icon-long-arrow-right:before { content: "\2192"; }    /* → */
