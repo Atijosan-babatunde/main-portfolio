@@ -1,0 +1,22 @@
+/* ============================================================
+   DUMMY placeholder for open-iconic-bootstrap.min.css
+   ------------------------------------------------------------
+   Only the "oi oi-menu" hamburger icon (mobile nav toggle) is
+   used from this set. This maps it to a plain CSS-drawn icon
+   so no font file is required.
+
+   TO GET THE REAL ICON SET BACK:
+   Replace this file with your old project's
+   css/open-iconic-bootstrap.min.css, and copy
+   old-project/fonts/open-iconic/ into public/fonts/open-iconic/.
+   ============================================================ */
+
+.oi {
+  display: inline-block;
+  position: relative;
+  top: 1px;
+}
+.oi-menu:before {
+  content: "\2630"; /* ☰ */
+  font-size: 1.1em;
+}
