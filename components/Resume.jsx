@@ -1,6 +1,6 @@
 const EXPERIENCE = [
   {
-    date: "2024-Present",
+    date: "2024-2026",
     title: "Senior Frontend Engineer",
     company: "Peerless Technology",
     desc: "Architected a micro-frontend service app for core banking systems. Implemented complex transaction logic and led frontend-to-backend integrations for high-stakes financial operations.",
@@ -33,10 +33,7 @@ export default function Resume() {
           <div className="col-md-10 heading-section text-center" data-aos="fade-up">
             <h1 className="big big-2">Resume</h1>
             <h2 className="mb-4">Experience</h2>
-            <p>
-              A proven track record of engineering scalable platforms and optimizing performance
-              for elite fintech and crypto organizations.
-            </p>
+            <p>A proven track record of engineering scalable platforms and optimizing performance for elite fintech and crypto organizations.</p>
           </div>
         </div>
         <div className="row">

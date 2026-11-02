@@ -2,7 +2,7 @@ import AnimatedCounter from "./AnimatedCounter";
 
 const STATS = [
   { target: 5, label: "Years Experience" },
-  { target: 25, label: "Completed Projects" },
+  { target: 18, label: "Completed Projects" },
   { target: 90, label: "Average Performance Score" },
 ];
 

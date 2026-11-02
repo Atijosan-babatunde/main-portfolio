@@ -8,28 +8,15 @@ export default function Footer() {
           <div className="col-md">
             <div className="ftco-footer-widget mb-4">
               <h2 className="ftco-heading-2">Mission</h2>
-              <p>
-                Engineering digital payment solutions that empower businesses and simplify user
-                experiences across the globe.
-              </p>
+              <p>Engineering digital payment solutions that empower businesses and simplify user experiences across the globe.</p>
               <ul className="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                 <li>
-                  <a
-                    href="https://www.linkedin.com/in/babatunde-atijosan-b12849230/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    aria-label="LinkedIn"
-                  >
+                  <a href="https://www.linkedin.com/in/babatunde-atijosan-b12849230/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                     <span className="icon-linkedin"></span>
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="https://twitter.com/ATIJOSANWORKS"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    aria-label="Twitter"
-                  >
+                  <a href="https://twitter.com/ATIJOSANWORKS" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
                     <span className="icon-twitter"></span>
                   </a>
                 </li>
@@ -43,6 +30,16 @@ export default function Footer() {
                 <li>
                   <a>
                     <span className="icon-long-arrow-right mr-2"></span>Fintech Infrastructure
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    <span className="icon-long-arrow-right mr-2"></span>Mobile Application Development
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    <span className="icon-long-arrow-right mr-2"></span> Desktop Application Development
                   </a>
                 </li>
                 <li>
